@@ -1,3 +1,3 @@
 My first readme
 This line was updated on github
-this was really editted on github
+It`s not allowed to edit anything from the github interface
