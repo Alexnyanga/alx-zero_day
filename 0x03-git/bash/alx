@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
-echo "ALX"y School
-=======
 #!/bin/bash 
-echo "ALX"
->>>>>>> 2d1d14203fb3041138372ae896a4b51e1e74677e
+echo "ALX school"
